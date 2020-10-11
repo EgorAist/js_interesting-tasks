@@ -1,5 +1,5 @@
 # js_interesting-tasks
-Команда Extra-Safe
+Команда ExtraSafe
 
 Участники:
 1. Аистов Егор
